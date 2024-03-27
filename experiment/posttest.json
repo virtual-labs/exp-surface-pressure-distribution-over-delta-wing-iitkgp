@@ -1,39 +1,59 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The suction peaks near the leading edge are due to the development of leading-edge vortices.",
+        "answers": {
+          "a": "True",
+          "b": "Flase"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },  
+      {
+        "question": "With increasing angles of attack, the suction value in the trailing edge decreases due to the",
+        "answers": {
+          "a": "Rise in suction pressure on the upper surface",
+          "b": "Attached flow near the trailing edge",
+          "c": "Adverse pressure gradient",
+          "d": "All the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "At the same angle of attack, the magnitude of suction peaks in the direction along the leading edge",
+        "answers": {
+          "a": "Increases",
+          "b": "Decreases",
+          "c": "Does not change",
+          "d": "None of the above"
+        },
+        "correctAnswer": "2",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "The delta wing stalls at",
+        "answers": {
+          "a": "Small angles of attack (α<15<sup>o</sup>)",
+          "b": "Moderately high angles of attack (15<sup>o</sup><α<30<sup>o</sup>)",
+          "c": "High angles of attack (α>30<sup>o</sup>)",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "Which component of the airflow induces the formation of the leading-edge vortex?",
+        "answers": {
+          "a": "Spanwise flow",
+          "b": "Streamwise flow",
+          "c": "Vertical flow",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
