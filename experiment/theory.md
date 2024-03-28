@@ -7,11 +7,11 @@
 </center>
 
 
-The pressure distribution over a delta wing is a complex phenomenon influenced by various factors such as angle of attack, airspeed, and wing geometry. Typically, at moderate angles of attack, the pressure distribution exhibits higher pressures on the lower surface near the apex, gradually decreasing towards the trailing edge, while lower pressures are observed near the leading edge on the upper surface, with an increase towards the root. Understanding this distribution is crucial for optimizing the aerodynamic performance of delta wings.
+The pressure distribution over a delta wing is a complex phenomenon influenced by various factors such as angle of attack, airspeed, and wing geometry. Typically, at moderate angles of attack, the pressure distribution exhibits higher pressures on the lower surface near the apex, gradually decreasing towards the trailing edge, while lower pressures are observed near the leading edge on the upper surface, with a rise in pressure towards the root. Understanding this distribution is crucial for optimizing the aerodynamic performance of delta wings.
 
 One key aspect affecting this distribution is the leading-edge vortex (LEV), a critical aerodynamic phenomenon inherent to delta wings. The LEV plays a significant role in enhancing lift production, particularly at higher angles of attack, through vortex lift. Its presence is characterized by sharp peaks in surface pressure near the leading edge. As the flow progresses downstream, the core of the vortex expands, maintaining coherence until vortex breakdown occurs.
 
-Vortex breakdown, influenced by adverse pressure gradients at higher angles of attack, can lead to flow separation over the wing's upper surface, disrupting lift generation and potentially causing stall. Understanding the behavior of the LEV and its interaction with surface pressure distribution is essential for optimizing delta wing designs and improving their aerodynamic performance.
+The adverse pressure gradients at higher angles of attack can lead to the flow separation over the wing's upper surface, disrupting the lift generation and stall the wing as well as lead to vortex breakdown. Understanding the behavior of the LEV and its interaction with surface pressure distribution is essential for optimizing delta wing designs and improving their aerodynamic performance.
 
 In the present experiment, we aim to investigate the surface pressure distribution over a delta wing with an aspect ratio of AR=0.5 for the freestream Reynolds number of approximately 30000 using a pressure measurement instrument and a wind tunnel.
 
