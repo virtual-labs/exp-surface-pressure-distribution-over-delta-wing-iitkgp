@@ -1,0 +1,57 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The pressure on the windward side is due to",
+        "answers": {
+          "a": "Stagnation",
+          "b": "Drag",
+          "c": "Both",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The delta wing stalls at higher angles of attack because the vortex breakdown location is in the wake.",
+        "answers": {
+          "a": "True",
+          "b": "Flase"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "At small angles of attack, the suction pressure develops on the upper surface of the delta wing.",
+        "answers": {
+          "a": "True",
+          "b": "Flase"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The aspect ratio of a delta wing with a sweep angle of 60 degrees and a root chord of 20 cm is",
+        "answers": {
+          "a": "2.3",
+          "b": "1.5",
+          "c": "2",
+          "d": "4"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The pressure coefficient is given by",
+        "answers": {
+          "a": "<img src=\"./images/Eq2.png\" style=\"width:32%;\">",
+          "b": "<img src=\"./images/Eq1.png\" style=\"width:32%;\">",
+          "c": "<img src=\"./images/Eq3.png\" style=\"width:32%;\">",
+          "d": "<img src=\"./images/Eq4.png\" style=\"width:32%;\">"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
