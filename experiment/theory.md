@@ -13,6 +13,17 @@ One key aspect affecting this distribution is the leading-edge vortex (LEV), a c
 
 The adverse pressure gradients at higher angles of attack can lead to the flow separation over the wing's upper surface, disrupting the lift generation and stall the wing as well as lead to vortex breakdown. Understanding the behavior of the LEV and its interaction with surface pressure distribution is essential for optimizing delta wing designs and improving their aerodynamic performance.
 
+
+<center>
+<img src="./images/Fig7.png" style="width:32%;">
+
+###### Figure: Delta wing pressure distribution at different chord wise location for AOA=20.1° and β=0° by Verhaagen (Verhaagen, N. and Naarding, S., 1988, June. Experimental and numerical investigation of the vortex flow over a yawed delta wing. In 6th Applied Aerodynamics Conference (p. 2563). https://doi.org/10.2514/6.1988-2563)
+</center>
+
+
+
+
+
 In the present experiment, we aim to investigate the surface pressure distribution over a delta wing with an aspect ratio of AR=0.5 for the freestream Reynolds number of approximately 30000 using a pressure measurement instrument and a wind tunnel.
 
 
