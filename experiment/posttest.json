@@ -22,14 +22,14 @@
         "difficulty": "beginner"
       },
       {
-        "question": "At the same angle of attack, the magnitude of suction peaks in the direction along the leading edge",
+        "question": "At the same angle of attack, the magnitude of suction peaks in the downstream direction",
         "answers": {
           "a": "Increases",
           "b": "Decreases",
           "c": "Does not change",
           "d": "None of the above"
         },
-        "correctAnswer": "2",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       },
       {
